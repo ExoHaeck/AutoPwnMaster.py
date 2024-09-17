@@ -1,5 +1,7 @@
 # AutoPwnMaster
 
+![image](https://github.com/user-attachments/assets/49cd6576-5854-40ad-a685-3a7ea0b350ef)
+
 ## Descripción
 
 `AutoPwnMaster.py` es un script automatizado diseñado para detectar vulnerabilidades de Local File Inclusion (LFI) en URLs obtenidas de un dominio objetivo. Realiza las siguientes acciones:
